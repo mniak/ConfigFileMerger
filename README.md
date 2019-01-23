@@ -1,8 +1,8 @@
 ConfigFileMerger 
 ====================================
-
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE.md)
-Tool for merge `.config` files.
+
+Tool to merge `.config` files.
 
 
 How `configSource` works
