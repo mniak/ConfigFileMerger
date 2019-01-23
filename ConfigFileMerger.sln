@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2041
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ConfigFileMerger", "ConfigFileMerger\ConfigFileMerger.fsproj", "{A71C6838-727A-4CF0-BBAB-9455B301B76E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfigFileMergerCsharp", "ConfigFileMergerCsharp\ConfigFileMergerCsharp.csproj", "{6E69DC78-D66C-467F-B0CC-BEF3DA70C601}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A71C6838-727A-4CF0-BBAB-9455B301B76E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A71C6838-727A-4CF0-BBAB-9455B301B76E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A71C6838-727A-4CF0-BBAB-9455B301B76E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A71C6838-727A-4CF0-BBAB-9455B301B76E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E69DC78-D66C-467F-B0CC-BEF3DA70C601}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E69DC78-D66C-467F-B0CC-BEF3DA70C601}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E69DC78-D66C-467F-B0CC-BEF3DA70C601}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E69DC78-D66C-467F-B0CC-BEF3DA70C601}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

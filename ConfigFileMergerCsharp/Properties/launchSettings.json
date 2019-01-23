@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ConfigFileMergerCsharp": {
+      "commandName": "Project",
+      "commandLineArgs": "\"Web.config\" \"Web.full.config\"",
+      "workingDirectory": "C:\\Users\\andre.guilherme\\Desktop\\Configs Accounts\\dev"
+    }
+  }
+}
